@@ -65,5 +65,7 @@ Consistent game visuals with a dark background and vibrant elements.
 
 The snake's speed increases each time it eats food, controlled via a timing mechanism using SDL_GetTicks() and SDL_Delay().
 
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/9fd199dd-55a9-4c4e-8c10-3e331ca7e638)
 
 
